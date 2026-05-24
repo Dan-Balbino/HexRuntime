@@ -1,0 +1,4 @@
+create sphere
+size 2
+element fire
+launch forward speed 10

@@ -1,2 +1,6 @@
 /venv
-scripts/__pycache__
+
+scripts/core/__pycache__
+scripts/entities/__pycache__
+
+ui/__pycache__
